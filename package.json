@@ -4,8 +4,5 @@
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "MIT",
-  "scripts": {
-    "build": "exit 0"
-  }
+  "license": "MIT"
 }
