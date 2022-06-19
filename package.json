@@ -1,9 +1,8 @@
 {
-  "name": "configs-npm instserver",
+  "name": "configs-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "MIT",
-  "devDependencies": {}
+  "license": "MIT"
 }

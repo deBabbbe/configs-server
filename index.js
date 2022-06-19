@@ -16,3 +16,7 @@ const server = http.createServer((_, res) => {
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+export default function handler(_, res) {
+  return res.send(configs);
+}
